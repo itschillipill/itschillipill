@@ -38,7 +38,6 @@ I'm a Flutter developer with experience in building mobile and web applications.
 ## 📚 Interests
 
 - Cross-platform development with Flutter
-- Quran reading and audio playback apps
 - UI/UX optimization and animation
 - App architecture and clean code
 
