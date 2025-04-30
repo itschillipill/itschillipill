@@ -1,6 +1,6 @@
 [🇷🇺 Показать на русском](README.md)
 
-# 👋 Hi! I'm Mehrob
+# 👋 Hi! It's Chillipill
 
 I'm a Flutter developer with experience in building mobile and web applications. I love clean architecture, follow SOLID principles, and enjoy turning ideas into fast, beautiful, and user-friendly interfaces.
 
