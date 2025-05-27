@@ -18,7 +18,7 @@ Flutter-разработчик с опытом создания мобильны
 
 ## 📱 Мои проекты
 
-### 🔐 [Ceaser Encryptor](https://github.com/Mehrob02/ceaser-encryptor)
+### 🔐 [Ceaser Encryptor](https://github.com/itschillipill/ceaser-encryptor)
 > Простое Flutter-приложение для шифрования и дешифровки текста по шифру Цезаря.
 
 - Позволяет задать сдвиг и зашифровать любой текст.
@@ -27,7 +27,7 @@ Flutter-разработчик с опытом создания мобильны
 
 ---
 
-### 🧮 [SwiftCalc](https://github.com/Mehrob02/FlutterCalculatorWithIsar)
+### 🧮 [SwiftCalc](https://github.com/itschillipill/FlutterCalculatorWithIsar)
 > Умный калькулятор с поддержкой факториала и степеней, а также историей вычислений.
 
 - Управление состоянием: BLoC
@@ -45,9 +45,9 @@ Flutter-разработчик с опытом создания мобильны
 
 ## 📬 Контакты
 
-- GitHub: [github.com/Mehrob02](https://github.com/Mehrob02)
-- Telegram: [@JTUFT](https://t.me/JTUFT)
-- Email: mehrobjonabdulvahobov@gmail.com
+- GitHub: [github.com/itschillipill](https://github.com/itschillipill)
+- Telegram: [@chillipill_dart](https://t.me/chillipill_dart)
+- Email: userdrive2005@gmail.com
 
 ---
 
