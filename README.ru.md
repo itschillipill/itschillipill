@@ -1,12 +1,12 @@
-[🇷🇺 Показать на русском](README.ru.md)
+[🇬🇧 Show in English](README.md)
 
 # Itschillipill
   
-Cooking up apps in [@dart-lang](https://github.com/dart-lang) / [@flutter](https://github.com/flutter)  
+Делаю приложения на [@dart-lang](https://github.com/dart-lang) / [@flutter](https://github.com/flutter)  
   
 ---  
   
-### Contacts  
+### Контакты  
    
 + **Telegram:** [@ItschilliPill](https://t.me/itschillipill)  
 + **GitHub:** [github.com/Itschillipill](https://github.com/itschillipill/)  
@@ -14,7 +14,7 @@ Cooking up apps in [@dart-lang](https://github.com/dart-lang) / [@flutter](https
   
 ---  
   
-### Open Source Projects  
+### Open-Source проекты  
   
   
 [![flutter-virtual-keyboard](https://github-readme-stats.vercel.app/api/pin/?username=itschillipill&repo=flutter-virtual-keyboard)](https://github.com/ItschilliPill/flutter-virtual-keyboard)  
@@ -22,7 +22,7 @@ Cooking up apps in [@dart-lang](https://github.com/dart-lang) / [@flutter](https
 [![caesar_encryptor](https://github-readme-stats.vercel.app/api/pin/?username=itschillipill&repo=caesar_encryptor)](https://github.com/itschillipill/caesar_encryptor)
 ---  
   
-### Tech stack  
+### Стэк технологий  
   
 + [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)
 + [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)
