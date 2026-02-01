@@ -17,9 +17,10 @@ Cooking up apps in [@dart-lang](https://github.com/dart-lang) / [@flutter](https
 ### Open Source Projects  
   
   
-[![flutter-virtual-keyboard](https://github-readme-stats.vercel.app/api/pin/?username=itschillipill&repo=flutter-virtual-keyboard)](https://github.com/ItschilliPill/flutter-virtual-keyboard)  
+[flutter-virtual-keyboard](https://github.com/ItschilliPill/flutter-virtual-keyboard)  
 
-[![caesar_encryptor](https://github-readme-stats.vercel.app/api/pin/?username=itschillipill&repo=caesar_encryptor)](https://github.com/itschillipill/caesar_encryptor)
+[caesar_encryptor](https://github.com/itschillipill/caesar_encryptor)
+
 ---  
   
 ### Tech stack  
